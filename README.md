@@ -30,4 +30,5 @@ This project consist of 3 parts, which are:
  
  ## Need help?
 
-Feel free to contact me @ [vinitshahdeo@gmail.com]
+Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo) 
+Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)
