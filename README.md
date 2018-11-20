@@ -29,4 +29,4 @@ This project consist of 3 parts, which are:
  
  ## Share this Project
  
- [![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/FaceRecognition.svg?style=social)](https://twitter.com/intent/tweet?text=Face Recognition Project by @Vinit_Shahdeo:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FFaceRecognition)
+ [![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/FaceRecognition.svg?style=social)](https://twitter.com/intent/tweet?text=Face%20Recognition%20Project%20by%20@Vinit_Shahdeo:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FFaceRecognition)
