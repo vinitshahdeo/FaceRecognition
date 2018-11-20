@@ -1,5 +1,6 @@
 # Face Recognition
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/FaceRecognition.svg)](https://github.com/vinitshahdeo/FaceRecognition/blob/master/LICENSE) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/) [![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org/downloads/release/python-350/)
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/FaceRecognition.svg?style=social)](https://github.com/vinitshahdeo/FaceRecognition/blob/master/LICENSE) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/) 
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/FaceRecognition.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FFaceRecognition) [![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg?style=social)](https://www.python.org/downloads/release/python-350/)
 
 Face Recognition using Haar-Cascade Classifier, OpenCV and Python
 
