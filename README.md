@@ -30,5 +30,8 @@ This project consist of 3 parts, which are:
  
  ## Need help?
 
-Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo) 
-Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)
+Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
+
+Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
+
+[![Generic badge](https://img.shields.io/badge/facebook-add-blue.svg)](https://www.facebook.com/vinit.shahdeo) [![Generic badge](https://img.shields.io/badge/quora-ask-red.svg)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Generic badge](https://img.shields.io/badge/instagram-follow-yellow.svg)](https://www.instagram.com/vinitshahdeo/)
