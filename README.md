@@ -1,4 +1,9 @@
 # Face Recognition
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/FaceRecognition.svg?style=social)](https://github.com/vinitshahdeo/FaceRecognition/blob/master/LICENSE)
+
+![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?label=Follow&style=social)
+
+[![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org/downloads/release/python-350/)
 Face Recognition using Haar-Cascade Classifier, OpenCV, and Python
 
 ## Requirements
@@ -7,20 +12,20 @@ Face Recognition using Haar-Cascade Classifier, OpenCV, and Python
 - Numpy
 
 
-## Outline ?
+## Outline
 
 This project consist of 3 parts, which are:
 
-1. Creating datasets (face_datasets.py)
-2. Train the model (training.py)
-3. Recognize faces (recog.py)
+1. Creating datasets (**datasets.py**)
+2. Train the model (**training.py**)
+3. Recognize faces (**recog.py**)
 
-## Instructions
+## Instructions - How to Run ?
 
- - First run face_datasets.py to generate datasets. Make sure that it creates two folders('datasets' and 'trainer'). The 'datasets' folder contains the grayscale images.
+ - First run *datasets.py* to generate datasets. Make sure that it creates two folders('datasets' and 'trainer'). The 'datasets' folder contains the grayscale images.
  
- - Supply proper ID for the face before running training.py
+ - Supply proper *ID* for the face before running *training.py*.
  
- - Run recog.py and don't forget to set each person's face to unique ID.
+ - Run *recog.py* and don't forget to set each person's face to unique ID.
  
  - If you have more face to be include, change the ID and run the code again.
