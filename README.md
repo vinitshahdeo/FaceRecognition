@@ -27,3 +27,7 @@ This project consist of 3 parts, which are:
  - Run *recog.py* and don't forget to set each person's face to unique ID.
  
  - If you have more face to be include, change the ID and run the code again.
+ 
+ ## Need help?
+
+Feel free to contact me @ [vinitshahdeo@gmail.com]
