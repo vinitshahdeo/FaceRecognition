@@ -20,11 +20,11 @@ This project consist of 3 parts, which are:
 
 ## Instructions - How to Run ?
 
- - First run *datasets.py* to generate datasets. Make sure that it creates two folders('datasets' and 'trainer'). The 'datasets' folder contains the grayscale images.
+ - First run *`datasets.py`* to generate datasets. Make sure that it creates two folders(**datasets** and **trainer**). The 'datasets' folder contains the grayscale images.
  
- - Supply proper *ID* for the face before running *training.py*.
+ - Supply proper *ID* for the face before running *`training.py`*.
  
- - Run *recog.py* and don't forget to set each person's face to unique ID.
+ - Run *`recog.py`* and don't forget to set each person's face to unique ID.
  
  - If you have more face to be include, change the ID and run the code again.
  
