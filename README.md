@@ -31,7 +31,7 @@ This project consist of 3 parts, which are:
  
  - If you have more face to be include, change the ID and run the code again.
  
- ## Need help?
+## Need help?
 
 Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
 
