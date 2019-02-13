@@ -15,6 +15,8 @@ Face Recognition using Haar-Cascade Classifier, OpenCV and Python.
 
 ## Outline
 
+[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/vinitshahdeo/FaceRecognition/) [![4U](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/vinitshahdeo/FaceRecognition/)
+
 This project consist of 3 parts, which are:
 
 1. Creating datasets (**datasets.py**)
