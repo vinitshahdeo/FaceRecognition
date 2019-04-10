@@ -7,9 +7,12 @@
 [![Generic badge](https://img.shields.io/badge/Face-Recognition-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/FaceRecognition) 
 [![Generic badge](https://img.shields.io/badge/Open-CV-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/) [![Generic badge](https://img.shields.io/badge/HaarCascade-Classifier-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/)
 
-This project is based on face detection and face recognition processes. It is a real time web cam face detection and recognition project which will be used to generate training face images and then detect the known faces. It classifies bettween know and unknown faces.
+This project is based on face detection and face recognition processes. It is a real time web cam face detection and recognition project which will be used to generate training face images and then detect the known faces. It classifies bettween known and unknown faces.
+
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/FaceRecognition.svg?color=critical&logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/FaceRecognition.svg?logo=jupyter&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/FaceRecognition.svg?logo=python&style=social)](https://github.com/vinitshahdeo/)
+
+> Click [here](https://github.com/vinitshahdeo/FaceRecognition/raw/master/docs/Face_Recog_Report%20.pdf) to download the project report. You can also find the project report inside `docs` folder.
 
 ## Requirements
 - Python 3.5
