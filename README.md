@@ -41,8 +41,10 @@ This project consist of 3 parts, which are:
  
 ## Need help?
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo) [![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@vinitshahdeo&color=grey&logo=linkedin&labelColor=blue&style=social)](https://www.linkedin.com/in/vinitshahdeo/)
+
 Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
 
 Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
-[![Generic badge](https://img.shields.io/badge/facebook-add-blue.svg)](https://www.facebook.com/vinit.shahdeo) [![Generic badge](https://img.shields.io/badge/quora-ask-red.svg)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Generic badge](https://img.shields.io/badge/instagram-follow-yellow.svg)](https://www.instagram.com/vinitshahdeo/)
+[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook)](https://www.facebook.com/vinit.shahdeo) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Instagram](https://img.shields.io/badge/Instagram-follow-yellow.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vinitshahdeo/)
