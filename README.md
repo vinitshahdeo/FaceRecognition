@@ -15,7 +15,7 @@ This project is based on face detection and face recognition processes. It is a 
 > Click [here](https://github.com/vinitshahdeo/FaceRecognition/raw/master/docs/Face_Recog_Report%20.pdf) to download the project report. You can also find the project report inside `docs` folder.
 
 ## Requirements
-- Python 3.5
+- Python 3.7
 - OpenCV 3.1.0
 - Numpy
 
